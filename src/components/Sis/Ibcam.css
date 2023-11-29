@@ -1,0 +1,87 @@
+.head{
+  display: flex;
+  flex-direction: row;
+  height: 60px;
+ 
+}
+.head button{
+    background-color: rgb(83, 82, 82);
+    border: none;
+    color:white;
+    font-size: 20px;
+    font: bolder;
+    text-align: left;
+    text-decoration: underline;
+    width: 100%;
+   
+}
+.head button:hover{
+  color: rgb(212, 153, 24);
+}
+.nav-contain{ 
+  height: 50px;
+  width: 100%;
+  background-color: rgb(83, 82, 82);
+  color: rgb(212, 153, 24);
+  padding-bottom: 26px;
+   
+}
+
+
+.zx{
+  background-color: white;
+  margin-top: 20px;
+  border: 1px solid rgb(196, 192, 192);
+
+}
+ul {
+  display: inline-flex;
+  list-style: none;
+  font-size: 17px;
+}
+
+li:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+.div{
+  margin-top: 30px;
+  background-color: white;
+}
+
+.zy{
+  background-color: white;
+  margin-top: 30px;
+  border: 1px solid rgb(196, 192, 192);
+}
+.pone{
+  margin-left: 50px;
+  margin-top: 30px;
+
+
+}
+.zy lable{
+  font-weight: bolder;
+}
+
+.dropdownz{
+  margin-top: 15px;
+}
+
+.ptwo{
+  margin-left: 150px;
+  margin-top: 30px;
+
+
+}
+.zy{
+  display: flex;
+
+}
+.zx p{
+  margin-left: 30px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+

@@ -1,0 +1,22 @@
+.head{
+    display: flex;
+    flex-direction: row;
+  }
+.head button{
+      background-color: rgb(122, 112, 112);
+      border: none;
+      color:white;
+      text-align: left;
+      text-decoration: underline;
+      width: 400px;
+      padding: 10px 10px;
+     
+}
+.nav-contain{ 
+      height: 20px;
+      width: 100%;
+      background-color: rgb(122, 112, 112);
+      color: rgb(212, 153, 24);
+      padding-bottom: 26px;
+}
+  

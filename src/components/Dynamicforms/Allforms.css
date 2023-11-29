@@ -1,0 +1,90 @@
+*{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.outer-container{
+    border: 1px solid rgb(121, 119, 119);
+    box-shadow: 2px 2px 20px 2px lightgray;
+background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 500px;
+
+}
+
+.inner-container{
+  border: 1px solid rgb(121, 119, 119);
+  box-shadow: 2px 2px 20px 2px lightgray;
+background-color: white;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 300px;
+
+}
+.mainp{
+    margin-top: 40px;
+    
+}
+
+
+  .bb{
+    border: 1px solid rgb(158, 157, 156);
+    margin-left: 90px;
+    margin-right: 90px;
+
+  }
+ 
+.divbutton{
+    margin-bottom: 0px;
+    background-color: rgb(221, 224, 224);
+    height: 50px;
+    justify-content: justify;
+    align-items: center;
+   
+  }
+  .divbutton button{
+    background-color:rgb(221, 224, 224) ;
+    margin: 0;
+    height:50px;
+    font-weight: 500;
+    margin-right: 5px;
+    border-right: 2px solid white;
+  }
+  .divbutton button:hover{
+    border-bottom: 2px solid orange;
+    color:blue;
+    background-color: white;
+  }
+
+  
+  .table-responsive-sm{
+    margin-top: 50px;
+    margin-right: 70px;
+    margin-left: 70px;
+  }
+
+  .table-responsive-sm th{
+    background-color: rgb(212, 215, 215);
+    border-right: 2px solid rgb(177, 176, 176);
+
+  }
+
+  
+  .label-select {
+    display: grid; 
+    align-items: center; 
+    margin-left: 1000px;
+    margin-top: 40px;
+  }
+  .label-select label{
+    font: 20px;
+    font-weight: bolder;
+  }
+  
+  
+  
+

@@ -1,0 +1,50 @@
+
+ul {
+    display: inline-flex;
+    list-style: none;
+    font-size: 17px;
+  }
+  
+  li:hover {
+    text-decoration: underline;
+    color: blue;
+  }
+  .btn-group{
+    font-size: 17px;
+
+  }
+  .btn-group button:hover{
+    text-decoration: underline;
+    color: blue;
+    background-color: white;
+  }
+
+  .yy{
+    background-color: white;
+  } 
+   .mm{
+    background-color: white;
+    font-size: 19px;
+    height: 50px;
+    margin: 14px;
+  }
+
+.tablex-x{
+    margin-top: 15px;
+    background-color: white;
+}
+.thead-dark{
+    background-color: rgb(201, 203, 203);
+}
+
+.containerx-div{
+  border: 7px solid black;
+  background-color: white;
+}
+
+.mainx-div{
+  background-color: rgb(203, 203, 200);
+  
+  display: flex;
+  flex-direction: column;
+}

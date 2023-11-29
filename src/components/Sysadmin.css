@@ -1,0 +1,89 @@
+ul {
+    display: inline-flex;
+    list-style: none;
+    font-size: 18px;
+  }
+  
+  li:hover {
+    text-decoration: underline;
+    color: blue;
+  }
+  .containery div{
+    display: inline-block;
+   
+  }
+  .yy{
+    background-color: white;
+  }
+
+
+ .aa{
+    color: rgb(0, 47, 255);
+    font-size: 16px;
+    font-weight: bolder;
+ }
+  .boxDiv{
+    min-height: 80px;
+    min-width: 40px;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-weight: bolder;
+    border: 2px dotted blue;
+    text-align: center;
+    margin: 4px;
+ }
+
+ .bb{
+  display: inline-flex;
+ }
+ .bb div p {
+  margin: 40px; 
+white-space: 40px;
+}
+.cc p{
+  margin: 40px;
+}
+
+
+
+
+.mainy-div{
+  background-color: rgb(233, 229, 229);
+  
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+
+
+
+}
+.pagey-div{
+  background-color: #f6f1f1;
+ margin: 20px;
+  border: 1px solid rgb(231, 220, 220); 
+  border-radius: 3px;
+  
+}
+.containery-div{
+  margin: 5px;
+  display: flex;
+  flex-direction: column;
+  border-top-left-radius: 10px;
+  padding: 50px;
+  background-color: white;
+  
+}
+
+.custom-underline {
+  width: 100%;
+  height: 2px;
+  background-color: blue;
+  margin: 10px 0; /* Adjust the margin as needed to control the spacing */
+}
+
+.custom-underlinez {
+  width: 100%;
+  height: 1px;
+  background-color: rgb(170, 170, 245);
+  margin: 10px 0; /* Adjust the margin as needed to control the spacing */
+}

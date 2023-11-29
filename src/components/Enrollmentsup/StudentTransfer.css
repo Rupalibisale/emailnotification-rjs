@@ -1,0 +1,99 @@
+.transfer-container{ 
+    background-color: rgb(235, 235, 235);
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    font-size: 12px;
+}
+.transfer-nav{
+    margin-top: 20px;
+    display: flex;
+    background-color: white;
+    padding: 10px 10px;
+    border: 1px solid rgb(194 183 183);
+    height: 42px;
+}
+
+.transfer-list{
+    display: flex;
+    justify-content: space-between;
+
+}
+li{
+    list-style: none;
+
+    
+}
+li a{
+    text-decoration: none;
+    color: rgb(61, 57, 57);
+}
+.transfer-list-1{
+    color: blue;
+}
+.heading{
+    background-color: white;
+    border: 1px solid rgb(194 183 183);
+   margin-top: 20px;
+}
+.section-1{
+    margin-top: 10px;
+    background-color: white;
+    border: 1px solid rgb(194 183 183);
+    margin-left: 21px;
+    height: 103px;
+
+}
+.transfer-para{
+    display: flex;
+    flex-direction: row;
+    color: blue;
+    margin-top: 5px;
+}
+.transfer-para-1{
+    margin-left: 10px;
+
+}
+.transfer-para-2{
+    margin-left: 101px;
+}
+.transfer-para-3{
+    margin-left: 143px;
+
+}
+.transfer-para-4{
+    margin-left: 143px;
+
+}
+.transfer-three-option{
+    display: flex;
+    flex-direction: row;
+}
+.hh{
+    margin-left: 10px;
+    font-size: 12px;
+
+
+}
+.transfer-second-option .hh1{
+    margin-left: 79px;
+
+}
+.transfer-third-option .hh2{
+    margin-left: 86px;
+
+}
+.transfer-fifth-option .hh3{
+    margin-left: 109px;
+
+}
+.transfer-forth-option button{
+    background-color: blue;
+    color: white;
+    border: none;
+   text-align: center;
+    font-size: 12px;
+    padding: 1px 6px;
+    margin-left: 65px;
+    border-radius: 3px;
+}
